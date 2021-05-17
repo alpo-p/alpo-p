@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hiya 👋
 
 - 🔭 I’m currently working on "reciper app" to showcase my skills in Fullstack Development
 - 🌱 I’m currently learning React Native, Typescript, GraphQL, NodeJS among other general Computer Science topics
