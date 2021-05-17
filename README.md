@@ -1,6 +1,6 @@
 ### Hiya 👋
 
-- 🏫 Student of Computer Science at University of Helsinki. Previously graduated from Aalto University from Finance
+- 🏫 Student of Computer Science at University of Helsinki. Previously graduated from Aalto University @Finance
 - 💬 I have extensive experience as a Business Executive before I resigned and focused 100% of my time to study Computer Science. See my LinkedIn for my previous work experience: https://www.linkedin.com/in/alpopanula/
 - 🌱 I’m currently learning React Native, Typescript, GraphQL, NodeJS among other general Computer Science topics
 - 🔭 At the moment I'm working on "reciper app" to showcase my skills in Fullstack Development
