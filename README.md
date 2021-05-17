@@ -8,3 +8,5 @@
 - 🤔 I’m looking for a job as a fullstack developer. My #1 criteria is to find a company where I'll learn the most
 - 💬 I have extensive experience as a Business Executive before I focused 100 % of my time to study Computer Science
 - 📫 See my LinkedIn for my previous work experience: https://www.linkedin.com/in/alpopanula/
+
+-->
