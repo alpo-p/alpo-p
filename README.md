@@ -1,4 +1,4 @@
-### Hiya 👋
+### Hi 👋
 
 - 🏫 Student of Computer Science at University of Helsinki. Previously graduated from Aalto University (Finance)
 - 💬 Before turning into a developer, I worked in various business executive roles in fast growing companies. [See LinkedIn](https://www.linkedin.com/in/alpopanula/)
