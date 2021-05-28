@@ -1,7 +1,5 @@
 ### Hi 👋
 
-- 🏫 Student of Computer Science at University of Helsinki. Previously graduated from Aalto University (Finance)
-- 💬 Before turning into a developer, I worked in various business executive roles in fast growing companies. [See LinkedIn](https://www.linkedin.com/in/alpopanula/)
-- 🌱 I’m currently learning React Native, Typescript, GraphQL, NodeJS and Jest amongst other general Software Development topics (e.g. TDD/"clean coding")
-- 🔭 At the moment I'm working on "reciper app"; see WIP below
-- 🤔 I’m looking for a job as a (junior) Fullstack Developer. My #1 criteria is to find a place where I'll learn the most about web/app development
+- Student of Computer Science at University of Helsinki. Previously graduated from Aalto University (Finance)
+- Before turning into software development, I worked in various business management roles in fast growing companies. [See LinkedIn](https://www.linkedin.com/in/alpopanula/)
+- I’m currently learning React Native, Typescript, GraphQL, NodeJS and Jest amongst other general Software Development topics (e.g. TDD/"clean coding")
