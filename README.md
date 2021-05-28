@@ -1,4 +1,3 @@
-### Hi 👋
 
 - Student of Computer Science at University of Helsinki. Previously graduated from Aalto University (Finance)
 - Before turning into software development, I worked in various business management roles in fast growing companies. [See LinkedIn](https://www.linkedin.com/in/alpopanula/)
