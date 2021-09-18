@@ -1,5 +1,4 @@
-
-- jr. Dev at RELEX. Also studying CS in Uni Helsinki. Previously graduated from Aalto University (Finance)
+- Fullstack dev at Relex
 - Before turning towards software development, I worked in various management roles in fast-growing companies. [See LinkedIn](https://www.linkedin.com/in/alpopanula/)
-- I mostly know React, React Native, Typescript, GraphQL, Redux, NodeJS, Rest and Jest related stuff
-- I also have some knowledge of Python (Flask, data structures and algorithms & some basic data science tools, e.g. numpy) and Java
+- I mostly use React, React Native, Typescript, GraphQL, Redux, NodeJS, Rest and Jest related stuff
+- I've also used Python (Flask, data structures and algorithms & some basic data science tools, e.g. numpy) and Java
