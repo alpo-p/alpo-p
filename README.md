@@ -1,4 +1,4 @@
-- Fullstack dev at Relex
+- Full stack dev at [Relex](https://www.linkedin.com/company/relexsolutions/)
 - I mostly use React, React Native, Typescript, GraphQL, Redux, NodeJS, Rest and Jest related stuff
-- I've also used Python (Flask, data structures and algorithms & some basic data science tools, e.g. numpy) and Java
+- I've also used Python (Flask, data structures and algorithms & some hobbyist data science) and Java
 - Before turning to software development, I worked in various management roles in fast-growing companies. [See LinkedIn](https://www.linkedin.com/in/alpopanula/)
