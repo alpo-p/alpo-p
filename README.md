@@ -1,4 +1,3 @@
-- Full stack dev working with AI
-- I mostly use React, React Native, Typescript, NodeJS, GraphQL, Redux, Docker, Kubernetes, GitLab, Rest and Jest related stuff
-- I've also used Python (Flask, data structures and algorithms & some hobbyist data science) and Java
+- Full stack dev working on generative AI
+- Mostly React, React Native, Typescript, NodeJS, GraphQL, Redux, Docker, Kubernetes, GitLab, Rest and Jest, Python (Flask, data structures and algorithms & some hobbyist data science)
 - Before turning to software development, I worked in various management roles in fast-growing companies. [See LinkedIn](https://www.linkedin.com/in/alpopanula/)
